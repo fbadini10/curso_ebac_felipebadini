@@ -111,3 +111,7 @@ section h2 {
 #technology {
     background-color: rgba(90, 1, 90, 0.21);
 }
+
+#technology .articles article a {
+    background-color: purple;
+}
